@@ -1,0 +1,123 @@
+time:1.0	chat:29341288	user:Ivan	message:/newgame гидроэлектростанция
+time:2.0	chat:29341288	user:Ivan	message:Станция
+time:3.0	chat:29341288	user:Lena	message:Стена
+time:3.5	chat:29341288	user:Alex	message:Лестница
+time:5.0	chat:29341288	user:Ivan	message:Трос танец теснота
+time:5.2	chat:29341288	user:Lena	message:Центр
+time:6.0	chat:29341288	user:Alex	message:Электрон
+time:8.0	chat:29341288	user:Ivan	message:Кот тон дрон столица
+time:10.0	chat:29341288	user:Lena	message:Ну ты быстрый я тоже хочу быть такой умной
+time:13.0	chat:29341288	user:Ivan	message:Ну так будь!
+time:16.0	chat:29341288	user:Alex	message:Лоток трата салат сланец
+time:17.0	chat:29341288	user:Lena	message:Топот лектор
+time:18.0	chat:29341288	user:Alex	message:/score
+time:20.0	chat:29341288	user:Lena	message:/hint
+time:23.0	chat:29341288	user:Ivan	message:Корица корт торт рот сорт рост
+time:24.0	chat:29341288	user:Lena	message:/hintanswer
+time:29.0	chat:29341288	user:Alex	message:Что-то я не могу больше ничего придумать может закончим
+time:30.0	chat:29341288	user:Lena	message:Да давай
+time:31.0	chat:29341288	user:Alex	message:/done
+
+time:38.0	chat:29341288	user:Ivan	message:/newgame самовоспроизводство
+time:39.0	chat:29341288	user:Ivan	message:Производство, мост, ворот, ворота, завод
+time:41.0	chat:29341288	user:Ivan	message:Пик, садоводство ива вода
+time:42.0	chat:29341288	user:Alex	message:Что уже новую игру начали что-ли
+time:43.0	chat:29341288	user:Alex	message:восток
+time:45.0	chat:29341288	user:Alex	message:зима
+time:46.0	chat:29341288	user:Ivan	message:вода
+time:48.0	chat:29341288	user:Alex	message:
+time:48.5	chat:29341288	user:Ivan	message:Провод
+
+time:50.0	chat:29341288	user:Lena	message:/newgame избирательность
+time:51.5	chat:29341288	user:Ivan	message:Лена, ну чё началось-то... нормально же играли
+time:52.0	chat:29341288	user:Lena	message:избиратель
+time:53.0	chat:29341288	user:Ivan	message:тело
+time:54.5	chat:29341288	user:Ivan	message:бирка рота изба
+time:55.0	chat:29341288	user:Ivan	message:/foundwords
+time:57.0	chat:29341288	user:Lena	message:/score
+
+
+
+
+
+
+time:0.0	chat:34500202	user:Ksenia	message:/newgame гидроэлектростанция
+time:0.5	chat:34500202	user:Ksenia	message:/score
+time:2.0	chat:34500202	user:Ksenia	message:станция, рост, рок, трос, стон
+time:4.0	chat:34500202	user:Ksenia	message:Какой счет
+time:4.5	chat:34500202	user:Alexey	message:Привет, как у тебя дела?
+time:6.0	chat:34500202	user:Ksenia	message:Отлично присоединяйся
+time:6.9	chat:34500202	user:Ksenia	message:тяга дрон трон
+time:7.5	chat:34500202	user:Ksenia	message:скажи слово
+time:8.0	chat:34500202	user:Alexey	message:электро танец цена
+time:10.0	chat:34500202	user:Alexey	message:электрон
+time:11.0	chat:34500202	user:Alexey	message:торнадо
+time:11.8	chat:34500202	user:Alexey	message:документ
+time:14.0	chat:34500202	user:Ksenia	message:Я собираюсь написать чертовски длинное сообщение про бычка Идет бычок шатается, вздыхает на ходу, ой доска кончается, сейчас я упаду Надеюсь оно много-много длиннее ста пятидесяти символов, иначе ничего не получится
+time:15.0	chat:34500202	user:Ksenia	message:Да я люблю писать длинные сообщения Про бычков, про девочек Тань, про Цветик-семицветик могу, но лучше не буду, потому что все равно никто читать не будет Что ты на это скжешь, а Вопрос ставить не буду а то сразу догадается что сообщение не ему
+time:16.0	chat:34500202	user:Ksenia	message:И еще одно чертовски длинное сообщение про нашу Таню Наша Таня громко плачет, уронила в речку мячек, тише Танечка не плач Не утонет в речке мяч А вот ты туда не лезь, потому что ты не мяч и утонуть можешь преспокойненько
+time:16.9	chat:34500202	user:Ksenia	message:Вот здесь можно посмотреть слова http:\\google.ru
+time:18.0	chat:34500202	user:Ksenia	message:Чего молчишь?
+time:20.0	chat:34500202	user:Alexey	message:Да, я знаю. А какое у нас слово ты не помнишь?
+time:23.0	chat:34500202	user:Alexey	message:трос торс рост мост
+time:25.0	chat:34500202	user:Ksenia	message:Может еще одно чертовски длинное сообщение про бычка написать Идет бычок шатается, вздыхает на ходу, ой доска кончается, сейчас я упаду Надеюсь оно много-много длиннее чем ста пятидесяти символов, иначе ничего не получится
+time:27.0	chat:34500202	user:Ksenia	message:Вообще робот сейчас уже должен замолкнуть Про бычков, про девочек Тань, про Цветик-семицветик могу, но лучше не буду, потому что все равно никто читать не будет Что ты на это скжешь, а Вопрос ставить не буду а то сразу догадается что сообщение не ему
+time:29.0	chat:34500202	user:Ksenia	message:И не реагировать на еще одно чертовски длинное сообщение про нашу Таню Наша Таня громко плачет, уронила в речку мячек, тише Танечка не плач Не утонет в речке мяч. А вот ты туда не лезь, потому что ты не мяч и утонуть можешь преспокойненько
+time:30.0	chat:34500202	user:Alexey	message:дай подсказку
+time:31.0	chat:34500202	user:Alexey	message:/hint
+time:35.0	chat:34500202	user:Alexey	message:Дай подсказку
+time:37.0	chat:34500202	user:Alexey	message:Подскажи слово
+time:39.9	chat:34500202	user:Ksenia	message:какой ответ то был?
+time:41.0	chat:34500202	user:Ksenia	message:/hintanswer
+time:42.0	chat:34500202	user:Alexey	message:скажи ответ
+time:43.9	chat:34500202	user:Ksenia	message:Дай Ответ на ПоДскАзКУ
+time:44.0	chat:34500202	user:Ksenia	message:напиши ответ
+time:46.0	chat:34500202	user:Alexey	message:электростанция электрон тростина еление
+time:48.0	chat:34500202	user:Alexey	message:А какие слова уже нашли?
+time:50.0	chat:34500202	user:Ksenia	message:/done
+
+
+
+time:25.0	chat:40028856	user:Mari	message:/newgame
+time:26.0	chat:40028856	user:Mari	message:/newgame
+time:28.0	chat:40028856	user:Mari	message:/newgame
+time:29.0	chat:40028856	user:Mari	message:/newgame
+time:30.0	chat:40028856	user:Mari	message:/newgame
+time:32.0	chat:40028856	user:Mari	message:/newgame
+time:33.0	chat:40028856	user:Mari	message:/newgame
+time:33.5	chat:40028856	user:Mari	message:/newgame
+time:34.0	chat:40028856	user:Mari	message:/newgame
+time:34.1	chat:40028856	user:Mari	message:/newgame
+time:34.2	chat:40028856	user:Mari	message:/newgame
+time:34.5	chat:40028856	user:Mari	message:/newgame
+time:35.0	chat:40028856	user:Mari	message:/newgame
+time:35.1	chat:40028856	user:Mari	message:/newgame
+time:35.2	chat:40028856	user:Mari	message:/newgame
+time:35.3	chat:40028856	user:Mari	message:/newgame
+time:35.5	chat:40028856	user:Mari	message:/newgame
+
+
+
+time:10.0	chat:50432848	user:Den	message:/newgame приоритетность
+time:11.0	chat:50432848	user:Den	message:/foundwords
+time:12.0	chat:50432848	user:Den	message:/score
+time:13.0	chat:50432848	user:Den	message:приоритет, тир, пир, тент
+time:14.0	chat:50432848	user:Den	message:/hint
+time:15.0	chat:50432848	user:Den	message:/hintanswer
+time:17.0	chat:50432848	user:Duk	message:/start
+time:18.0	chat:50432848	user:Duk	message:рот торт трость
+time:19.0	chat:50432848	user:Duk	message:рот торт трость
+time:20.0	chat:50432848	user:Duk	message:/hint
+time:21.0	chat:50432848	user:Duk	message:/hint
+
+time:160.0	chat:50432848	user:Den	message:спирт
+time:162.0	chat:50432848	user:Den	message:тесть
+time:162.0	chat:50432848	user:Den	message:/score
+time:163.0	chat:50432848	user:Den	message:/hintanswer
+time:164.0	chat:50432848	user:Den	message:/score
+time:165.0	chat:50432848	user:Den	message:/done
+
+
+
+
+
